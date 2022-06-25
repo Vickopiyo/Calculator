@@ -13,7 +13,6 @@ function specKeys(y){
         let arr=display.value.split("")
         arr.pop()
         display.value=arr.join("")
-
     }
 
 }
